@@ -9,6 +9,10 @@ def func(x):
         print(i)
 ```
 
+## Python 1
+
+1 Python.
+
 ## Not Python
 
 CSS:
